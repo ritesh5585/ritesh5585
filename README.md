@@ -1,21 +1,232 @@
-# 💫 About Me:
-Im Currently working on a InkSeal<br>Looking to contribute on open source<br>looking to build a products with a team to enhance skills and explore technologies  
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1117,100:1f1f3a&height=200&section=header&text=Ritesh%20Vishwakarma&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Builder%20%C2%B7%20Mumbai&descSize=15&descColor=8b949e&descAlignY=58" width="100%" />
+</div>
 
+<!-- TYPING + BADGES -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Browser+%E2%86%92+API+%E2%86%92+Database+%E2%86%92+Response;Building+real+products%2C+not+tutorials;Self-taught+%C2%B7+Non-CS+%C2%B7+Still+shipping;Currently+building+InkSeal+%F0%9F%94%8F" />
+</div>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/AGRvF45cF) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ritesh.v07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritesh-vishwakarma8850/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwakarmaritesh5585@gmail.com) 
+<div align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-LangChain%20%C2%B7%20Groq-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-22c55e?style=flat-square" />
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ritesh5585&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ritesh5585&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ritesh5585&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ritesh5585&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ritesh5585&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ABOUT + SOCIAL SPLIT -->
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👋 Who I Am
+
+Full Stack Developer focused on building **production-grade web products** — from MongoDB schema to React UI, from JWT auth pipelines to LangChain AI agents.
+
+Non-CS background. Every skill earned by **shipping real software**, debugging real failures, and understanding why things break.
+
+I care about:
+- Clean architecture that someone else can maintain
+- Understanding systems beneath the framework
+- Shipping things that actually work
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-vishwakarma8850/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaritesh5585@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ritesh.v07/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritesh5585)
+
+<br/>
+
+![visitors](https://komarev.com/ghpvc/?username=ritesh5585&label=Profile+views&color=0d1117&style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- CURRENTLY BUILDING -->
+### 🔨 Currently Building
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**[InkSeal](https://github.com/ritesh5585)** — Privacy-first PDF signing
+
+Sign a PDF without uploading it anywhere. Every operation runs inside your browser.
+
+```
+Your PDF
+   ↓
+PDF.js  →  Renders pages on Canvas
+   ↓
+Signature  →  Draw / Type / Upload
+   ↓
+pdf-lib  →  Embeds signature
+   ↓
+Web Crypto  →  SHA-256 fingerprint
+   ↓
+Download signed PDF  ✓
+
+Your document never leaves your device.
+```
+
+</td>
+<td width="40%" valign="top">
+
+<br/><br/>
+
+**Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PDF.js](https://img.shields.io/badge/PDF.js-FF0000?style=flat-square)
+![pdf-lib](https://img.shields.io/badge/pdf--lib-gray?style=flat-square)
+![Web Crypto](https://img.shields.io/badge/Web%20Crypto%20API-0d1117?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<br/>
+
+**Status:** `Active development` · Building with a team
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- PROJECTS -->
+### 🔥 Selected Work
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**[Onyx](https://github.com/ritesh5585/onyx)**
+
+E-commerce platform with RBAC, seller dashboard, RazorPay payments, Cloudinary assets
+
+`React` `Node.js` `MongoDB` `JWT` `Redux`
+
+</td>
+<td align="center" width="33%">
+
+**[Perplexity City](https://github.com/ritesh5585/Perplexcity)**
+
+AI search engine — LangChain agent decides when to use web search vs LLM vs retrieval
+
+`LangChain` `Groq` `Tavily` `Node.js`
+
+</td>
+<td align="center" width="33%">
+
+**[VibeTune](https://github.com/ritesh5585/VibeTune)**
+
+Mood-based platform that adapts UI and content in real time — no page reload
+
+`React` `Node.js` `MongoDB` `JWT`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- STACK -->
+### 🧱 Engineering Stack
+
+<div align="center">
+
+<h4>Frontend</h4>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,vite" />
+
+<h4>Backend & Database</h4>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql" />
+
+<h4>Auth & AI</h4>
+<img src="https://skillicons.dev/icons?i=jwt" />
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Tavily](https://img.shields.io/badge/Tavily-8B5CF6?style=flat-square)
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=flat-square&logo=google&logoColor=white)
+
+<h4>Infrastructure & Tools</h4>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,render" />
+
+</div>
+
+---
+
+<!-- LEARNING -->
+### 📐 Currently Learning
+
+```
+TypeScript  →  Next.js  →  System Design  →  Production Engineering
+```
+
+Moving from *"make the feature work"* toward understanding what happens underneath:
+
+- Where validation should live
+- What state belongs on client vs server
+- What becomes a bottleneck at scale
+- How to design around failure, not just the happy path
+
+---
+
+<!-- GITHUB STATS -->
+### 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritesh5585&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh5585&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ritesh5585&theme=github-dark-blue&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh5585&bg_color=0d1117&color=8b949e&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="100%" />
+</div>
+
+<!-- SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh5585/ritesh5585/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh5585/ritesh5585/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ritesh5585/ritesh5585/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<!-- CONNECT -->
+### 🤝 Let's Build Something
+
+<div align="center">
+
+I'm open to **collaborations, interesting side projects, and open source**.
+
+If you're building something real — let's connect.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-vishwakarma8850/)
+[![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaritesh5585@gmail.com)
+
+<br/>
+
+<sub>Build → Break → Understand → Ship</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f3a,100:0d1117&height=100&section=footer" width="100%" />
+
+</div>
