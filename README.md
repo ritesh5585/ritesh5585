@@ -1,52 +1,64 @@
-<!-- HEADER -->
+<!-- HEADER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1117,100:1f1f3a&height=200&section=header&text=Ritesh%20Vishwakarma&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Builder%20%C2%B7%20Mumbai&descSize=15&descColor=8b949e&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:00c896&height=200&section=header&text=Ritesh%20Vishwakarma&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Builder%20%C2%B7%20Mumbai&descSize=15&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%" />
 </div>
 
-<!-- TYPING + BADGES -->
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Browser+%E2%86%92+API+%E2%86%92+Database+%E2%86%92+Response;Building+real+products%2C+not+tutorials;Self-taught+%C2%B7+Non-CS+%C2%B7+Still+shipping;Currently+building+InkSeal+%F0%9F%94%8F" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-LangChain%20%C2%B7%20Groq-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-22c55e?style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=39FF88&center=true&vCenter=true&width=560&lines=Browser+%E2%86%92+API+%E2%86%92+Database+%E2%86%92+Response;Building+real+products%2C+not+tutorials;Self-taught+%C2%B7+Project-driven+%C2%B7+Still+shipping;Currently+building+InkSeal+%F0%9F%94%8F" />
 </div>
 
 <br/>
 
----
-
-<!-- ABOUT + SOCIAL SPLIT -->
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👋 Who I Am
-
-Full Stack Developer focused on building **production-grade web products** — from MongoDB schema to React UI, from JWT auth pipelines to LangChain AI agents.
-
-Non-CS background. Every skill earned by **shipping real software**, debugging real failures, and understanding why things break.
-
-I care about:
-- Clean architecture that someone else can maintain
-- Understanding systems beneath the framework
-- Shipping things that actually work
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<br/>
+<!-- SOCIAL BADGES -->
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-vishwakarma8850/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaritesh5585@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ritesh.v07/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritesh5585)
 
+<img src="https://komarev.com/ghpvc/?username=ritesh5585&label=Profile+views&color=00c896&style=flat-square" />
+
+</div>
+
 <br/>
 
-![visitors](https://komarev.com/ghpvc/?username=ritesh5585&label=Profile+views&color=0d1117&style=flat-square)
+---
+
+<!-- ABOUT -->
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👋 Who I Am
+
+Full Stack Developer building **production-grade web products** — from MongoDB schema to React UI, from JWT auth pipelines to LangChain AI agents.
+
+Practical, project-driven background — every skill earned by **shipping real software** and debugging real failures.
+
+```yaml
+location:  Mumbai, India
+focus:     Full Stack + AI Integration
+learning:  TypeScript · Next.js · System Design
+open_to:   Collaborations · Open Source
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<br/>
+
+```
+●  ●  ●   ritesh — zsh
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1600&pause=500&color=39FF88&center=true&vCenter=true&multiline=true&width=380&height=220&lines=%24+git+status;On+branch+main+%E2%9C%93;%24+npm+run+build;%3E+compiling+modules...;%3E+optimizing+assets...;%3E+build+success+%E2%9C%93;%24+git+push+origin+main;%3E+3+files+changed%2C+112+insertions" width="380" alt="terminal animation" />
+
+<br/>
+
+![Status](https://img.shields.io/badge/status-online%20%26%20building-39FF88?style=flat-square&labelColor=0d1117)
+![Uptime](https://img.shields.io/badge/mode-shipping-00c896?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
@@ -59,7 +71,7 @@ I care about:
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 **[InkSeal](https://github.com/ritesh5585)** — Privacy-first PDF signing
 
@@ -72,7 +84,7 @@ PDF.js  →  Renders pages on Canvas
    ↓
 Signature  →  Draw / Type / Upload
    ↓
-pdf-lib  →  Embeds signature
+pdf-lib  →  Embeds signature into PDF
    ↓
 Web Crypto  →  SHA-256 fingerprint
    ↓
@@ -81,23 +93,23 @@ Download signed PDF  ✓
 Your document never leaves your device.
 ```
 
+**Status:** `Active development` · Building with a team
+
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top" align="center">
 
 <br/><br/>
 
-**Stack**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PDF.js](https://img.shields.io/badge/PDF.js-FF0000?style=flat-square)
-![pdf-lib](https://img.shields.io/badge/pdf--lib-gray?style=flat-square)
-![Web Crypto](https://img.shields.io/badge/Web%20Crypto%20API-0d1117?style=flat-square)
+![PDF.js](https://img.shields.io/badge/PDF.js-FF0000?style=flat-square&logo=mozilla&logoColor=white)
+![pdf-lib](https://img.shields.io/badge/pdf--lib-555555?style=flat-square)
+![Web Crypto](https://img.shields.io/badge/Web%20Crypto%20API-0d1117?style=flat-square&logo=webauthn&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <br/>
 
-**Status:** `Active development` · Building with a team
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="building gif" />
 
 </td>
 </tr>
@@ -114,27 +126,36 @@ Your document never leaves your device.
 
 **[Onyx](https://github.com/ritesh5585/onyx)**
 
-E-commerce platform with RBAC, seller dashboard, RazorPay payments, Cloudinary assets
+🛍️ E-commerce platform with RBAC, seller dashboard, RazorPay payments, Cloudinary CDN
 
-`React` `Node.js` `MongoDB` `JWT` `Redux`
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 
 </td>
 <td align="center" width="33%">
 
 **[Perplexity City](https://github.com/ritesh5585/Perplexcity)**
 
-AI search engine — LangChain agent decides when to use web search vs LLM vs retrieval
+🤖 AI search — LangChain agent + Groq LLM + Tavily live web search + OAuth2
 
-`LangChain` `Groq` `Tavily` `Node.js`
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
+![Tavily](https://img.shields.io/badge/-Tavily-8B5CF6?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
 **[VibeTune](https://github.com/ritesh5585/VibeTune)**
 
-Mood-based platform that adapts UI and content in real time — no page reload
+🎵 Mood-based platform — adapts UI and content in real time, zero page reload
 
-`React` `Node.js` `MongoDB` `JWT`
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
 </tr>
@@ -142,27 +163,27 @@ Mood-based platform that adapts UI and content in real time — no page reload
 
 ---
 
-<!-- STACK -->
+<!-- STACK WITH ICONS -->
 ### 🧱 Engineering Stack
 
 <div align="center">
 
-<h4>Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,vite" />
+**Frontend**
 
-<h4>Backend & Database</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,vite&theme=dark" />
 
-<h4>Auth & AI</h4>
-<img src="https://skillicons.dev/icons?i=jwt" />
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql&theme=dark" />
+
+**AI / Auth / Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,render&theme=dark" />
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Tavily](https://img.shields.io/badge/Tavily-8B5CF6?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq%20LLM-F55036?style=flat-square)
 ![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=flat-square&logo=google&logoColor=white)
-
-<h4>Infrastructure & Tools</h4>
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,render" />
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
 
 </div>
 
@@ -175,12 +196,12 @@ Mood-based platform that adapts UI and content in real time — no page reload
 TypeScript  →  Next.js  →  System Design  →  Production Engineering
 ```
 
-Moving from *"make the feature work"* toward understanding what happens underneath:
+Moving from *"make the feature work"* toward:
 
-- Where validation should live
-- What state belongs on client vs server
-- What becomes a bottleneck at scale
-- How to design around failure, not just the happy path
+- Understanding request → processing → response → failure flows
+- Designing systems around failure, not just the happy path  
+- Caching, rate limiting, scalability tradeoffs
+- Clean architecture someone else can maintain
 
 ---
 
@@ -188,25 +209,38 @@ Moving from *"make the feature work"* toward understanding what happens undernea
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritesh5585&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh5585&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
+
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=ritesh5585&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF88&text_color=8b949e&icon_color=00c896&include_all_commits=true&rank_icon=github" />
+
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ritesh5585&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF88&text_color=8b949e&langs_count=6" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ritesh5585&theme=github-dark-blue&hide_border=true" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ritesh5585&theme=dark&hide_border=true&background=0d1117&stroke=00c896&ring=00c896&fire=39FF88&currStreakLabel=39FF88&sideLabels=8b949e&dates=444444&currStreakNum=ffffff&sideNums=ffffff" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh5585&bg_color=0d1117&color=8b949e&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh5585&bg_color=0d1117&color=8b949e&line=00c896&point=39FF88&area=true&area_color=00c896&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+
 </div>
 
-<!-- SNAKE -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh5585/ritesh5585/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh5585/ritesh5585/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ritesh5585/ritesh5585/output/github-snake-dark.svg" width="100%" />
-  </picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ritesh5585&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+</div>
+
+---
+
+<!-- TERMINAL STRIP (replaces pet section) -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=900&color=39FF88&center=true&vCenter=true&width=520&lines=console.log(%27always+learning%27)%3B;git+commit+-m+%27fix%3A+one+more+bug%27;while(true)+%7B+build()%3B+%7D" width="480" alt="terminal strip" />
+
 </div>
 
 ---
@@ -216,17 +250,22 @@ Moving from *"make the feature work"* toward understanding what happens undernea
 
 <div align="center">
 
-I'm open to **collaborations, interesting side projects, and open source**.
+I'm open to **collaborations, open source, and interesting side projects.**
 
-If you're building something real — let's connect.
+Building something real? Let's connect.
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-vishwakarma8850/)
+&nbsp;
 [![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaritesh5585@gmail.com)
 
 <br/>
 
 <sub>Build → Break → Understand → Ship</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f3a,100:0d1117&height=100&section=footer" width="100%" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
