@@ -50,10 +50,13 @@ open_to:   Collaborations · Open Source
 <br/>
 
 ```
-●  ●  ●   ritesh — zsh
+●  ●  ● 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1600&pause=500&color=39FF88&center=true&vCenter=true&multiline=true&width=380&height=220&lines=%24+git+status;On+branch+main+%E2%9C%93;%24+npm+run+build;%3E+compiling+modules...;%3E+optimizing+assets...;%3E+build+success+%E2%9C%93;%24+git+push+origin+main;%3E+3+files+changed%2C+112+insertions" width="380" alt="terminal animation" />
+<!-- ANIMATED CODE -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThiMTQzN2NkMjE5OTI0OTk5NzQ5ZGY5NzJhZTA1ZjI3ZjAwM2YzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Code Animation" />
+</div>
 
 <br/>
 
@@ -219,27 +222,6 @@ Moving from *"make the feature work"* toward:
 <div align="center">
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=ritesh5585&theme=dark&hide_border=true&background=0d1117&stroke=00c896&ring=00c896&fire=39FF88&currStreakLabel=39FF88&sideLabels=8b949e&dates=444444&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh5585&bg_color=0d1117&color=8b949e&line=00c896&point=39FF88&area=true&area_color=00c896&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ritesh5585&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-
-</div>
-
----
-
-<!-- TERMINAL STRIP (replaces pet section) -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=900&color=39FF88&center=true&vCenter=true&width=520&lines=console.log(%27always+learning%27)%3B;git+commit+-m+%27fix%3A+one+more+bug%27;while(true)+%7B+build()%3B+%7D" width="480" alt="terminal strip" />
 
 </div>
 
