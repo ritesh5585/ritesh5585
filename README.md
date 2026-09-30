@@ -76,24 +76,27 @@ open_to:   Collaborations · Open Source
 <tr>
 <td width="55%" valign="top">
 
-**[InkSeal](https://github.com/ritesh5585)** — Privacy-first PDF signing
+**[Slatex](https://github.com/ritesh5585/Slatex)** — GitHub analytics dashboard
 
-Sign a PDF without uploading it anywhere. Every operation runs inside your browser.
+Analyze any GitHub developer or repository in seconds. Every operation runs server-side, zero API keys exposed.
 
 ```
-Your PDF
-   ↓
-PDF.js  →  Renders pages on Canvas
-   ↓
-Signature  →  Draw / Type / Upload
-   ↓
-pdf-lib  →  Embeds signature into PDF
-   ↓
-Web Crypto  →  SHA-256 fingerprint
-   ↓
-Download signed PDF  ✓
-
-Your document never leaves your device.
+Your Input (username / repo URL)
+          ↓
+parse-input → Detects user vs repo vs profile link
+          ↓
+Route handler → /api/github/user/[username]
+/api/github/repo/[owner]/[name]
+          ↓
+Services → getUserByUsername · getRepo
+getRepoCommits · getUserContributions
+          ↓
+GitHub GraphQL → Single POST, all data in one query
+          ↓
+Dashboard → Hero · Stats · Streaks
+Language Chart · Repo Grid
+          ↓
+Fully rendered analytics dashboard ✓
 ```
 
 **Status:** `Active development` · Building with a team
