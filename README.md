@@ -76,7 +76,7 @@ open_to:   Collaborations · Open Source
 <tr>
 <td width="55%" valign="top">
 
-**[Slatex](https://github.com/ritesh5585/Slatex)** — GitHub analytics dashboard
+**[Slatex](https://github.com/ritesh5585/Slatex....git)** — GitHub analytics dashboard
 
 Analyze any GitHub developer or repository in seconds. Every operation runs server-side, zero API keys exposed.
 
