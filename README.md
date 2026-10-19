@@ -130,9 +130,9 @@ Fully rendered analytics dashboard ✓
 <tr>
 <td align="center" width="33%">
 
-**[Onyx](https://github.com/ritesh5585/onyx)**
+**[Onyx](https://onyx-e-commerce.netlify.app)**
 
-🛍️ E-commerce platform with RBAC, seller dashboard, RazorPay payments, Cloudinary CDN
+🛍️ E-commerce platform with RBAC, seller dashboard, RazorPay payments, Google 0auth
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -143,14 +143,14 @@ Fully rendered analytics dashboard ✓
 </td>
 <td align="center" width="33%">
 
-**[Perplexity City](https://github.com/ritesh5585/Perplexcity)**
+**[Slatex](https://slatex-seven.vercel.app)**
 
-🤖 AI search — LangChain agent + Groq LLM + Tavily live web search + OAuth2
+📊 GitHub Analytics — Next.js GraphQL dashboard + Redis caching & rate limiting
 
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
-![Tavily](https://img.shields.io/badge/-Tavily-8B5CF6?style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </td>
 <td align="center" width="33%">
